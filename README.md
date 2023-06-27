@@ -8,7 +8,7 @@ Yes Bank was a very reputable bank till 2018. After 2018, the bank came under th
 Yes Bank is a well-known bank in the Indian financial domain. Since 2018, it has been in the news because of the fraud case involving Rana Kapoor. Owing to this fact, it was interesting to see how that impacted the stock prices of the company and whether Time Series models or any other predictive models can do justice to such situations. This Dataset has the monthly stock prices of the bank since its inception and includes closing, opening, highest, and lowest stock prices of every month. The main objective is to predict the closing stock price of the month.
 
 **VARIABLE DESCRIPTION-**
-In the given dataset there are 150 rows and 5 features, Features descriptions are as follows-
+In the given dataset there are 185 rows and 5 features, Features descriptions are as follows-
 
 **Date**-: Date denotes the date of investment(date contains month and year for a particular price.)
 
