@@ -1,5 +1,6 @@
 # Supervised-ML-Regression
 YES BANK STOCK CLOSING PRICE PREDICTION.
+
 **PROJECT SUMMARY-**
 Yes Bank was a very reputable bank till 2018. After 2018, the bank came under the umbrella of risk-inflated banks because of the fraud case by Rana Kapoor. This project would help not only yes bank but all those banks who want to predict their future and are in a conundrum for their future. So Machine Learning is helping us to resolve the issue of all those companies and firms who want to gather some courage in order to survive in the market for a longer time. By predicting the price with the acquaintance of Machine Learning especially linear Regression and other regressors, which helped firms and companies to sustain in the market. In this project, the monthly Open, Close, Low, and High prices of Yes Bank stock have helped to train the model on which learning occurred and then the respective prediction occurs.
 
@@ -10,9 +11,13 @@ Yes Bank is a well-known bank in the Indian financial domain. Since 2018, it has
 In the given dataset there are 150 rows and 5 features, Features descriptions are as follows-
 
 **Date**-: Date denotes the date of investment(date contains month and year for a particular price.)
+
 **Open**-:  It is the price at which a stock started trading.
+
  **High**-: It is the highest price at which a stock is traded during a period.
+ 
  **Low**-: It is the minimum price at which a stock is traded during a period.
+ 
  **Close**-: The closing price refers to a stock's trading price closed at the end of a trading day. It's a dependent variable that we need to predict from our respective ML models. The closing price is calculated as the weighted average price of the last 30 minutes, i.e. from 3:00 PM to 3:30 PM in case of equity.
 
  **OBJECTIVE-**
@@ -27,6 +32,7 @@ In the given dataset there are 150 rows and 5 features, Features descriptions ar
  8. Model Deployment.
 
  **Conclusion-**
+ 
  **Closing Price** of a stock refers to the final price at which the stock is traded on a particular stock exchange on a given trading day. It is the last price at which the stock is bought or sold during the trading session.
 
 *Importance:* The closing price is an important metric used by investors, analysts, and traders to evaluate a company’s financial health, market value, and stock performance. It is also used to calculate other important metrics such as the daily price change, market capitalization, and trading volume.
